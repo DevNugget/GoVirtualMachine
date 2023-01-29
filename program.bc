@@ -1,0 +1,5 @@
+10 push 50
+20 push 20
+30 add
+40 push 900
+50 add
